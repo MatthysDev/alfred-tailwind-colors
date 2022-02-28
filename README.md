@@ -1,6 +1,6 @@
 # alfred-tailwind-colors
 
-> Workflow to find Tailwind color pallet with Alfred 4
+> Workflow to find Tailwind color palette with Alfred 4
 
 > You can put a star on this repo to help me ! 🙏
 
