@@ -6,7 +6,7 @@
 
 Download [this](https://github.com/MatthysDev/alfred-tailwind-colors) file and open it
 
-Now you can find any Color qvqilable in Tailwind with alfred by enter the following keyword : ```twcol```
+Now you can find any Color available in Tailwind with alfred by enter the following keyword : ```twcol```
 
 ## Exemples :
 
