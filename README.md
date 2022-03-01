@@ -18,9 +18,6 @@
 
 ---
 
-
----
-
 ## Installation 
 
 Download [TailwindColorPalette.workflow](https://github.com/MatthysDev/alfred-tailwind-colors/blob/master/TailwindColorPalette.alfredworkflow) file import to [Alfred](https://www.alfredapp.com/)
