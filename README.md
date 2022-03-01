@@ -6,14 +6,6 @@
 
 ---
 
-### How to install 
-
-Download [this](https://github.com/MatthysDev/alfred-tailwind-colors/blob/master/TailwindColorPalette.alfredworkflow) file and open it
-
-Now you can find any Color available in Tailwind with alfred by enter the following keyword : ```twcol```
-
----
-
 ## Exemples :
 
 - All colors 
@@ -24,4 +16,23 @@ Now you can find any Color available in Tailwind with alfred by enter the follow
 
 ![2022-02-28 20 12 17](https://user-images.githubusercontent.com/81434852/156044233-368dcd1a-dd7f-4f52-99bb-5ee82045b5c4.gif)
 
+---
 
+
+---
+
+## Installation 
+
+Download [TailwindColorPalette.workflow](https://github.com/MatthysDev/alfred-tailwind-colors/blob/master/TailwindColorPalette.alfredworkflow) file import to [Alfred](https://www.alfredapp.com/)
+
+Now you can find any Color available in Tailwind with alfred by enter the following keyword : ```twcol```
+
+---
+
+## Usage
+
+**Keyword** `twcol`: Search through [Tailwind Color Palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette).
+
+
+- `twcol {query-color}`: Find a specific color gradient
+- `Enter`: Copy to clipboard the color you select
