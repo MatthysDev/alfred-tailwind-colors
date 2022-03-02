@@ -10,11 +10,12 @@
 
 - All colors 
 
-![2022-02-28 20 11 54](https://user-images.githubusercontent.com/81434852/156044207-aceb951c-89cd-4484-945b-9e89df83efec.gif)
+![2022-03-02 21 36 25](https://user-images.githubusercontent.com/81434852/156445600-0333c0e7-7a5e-4e36-9fa1-b10c12c26e24.gif)
+
 
 - Find a specific color : 
 
-![2022-02-28 20 12 17](https://user-images.githubusercontent.com/81434852/156044233-368dcd1a-dd7f-4f52-99bb-5ee82045b5c4.gif)
+![2022-03-02 21 36 49](https://user-images.githubusercontent.com/81434852/156445620-1c6a6ba4-a1cd-463c-943b-3d18d6f6913f.gif)
 
 ---
 
@@ -22,14 +23,14 @@
 
 Download [TailwindColorPalette.workflow](https://github.com/MatthysDev/alfred-tailwind-colors/blob/master/TailwindColorPalette.alfredworkflow) file import to [Alfred](https://www.alfredapp.com/)
 
-Now you can find any Color available in Tailwind with alfred by enter the following keyword : ```twcol```
+Now you can find any Color available in Tailwind with alfred by enter the following keyword : ```twc```
 
 ---
 
 ## Usage
 
-**Keyword** `twcol`: Search through [Tailwind Color Palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette).
+**Keyword** `twc`: Search through [Tailwind Color Palette](https://tailwindcss.com/docs/customizing-colors#default-color-palette).
 
 
-- `twcol {query-color}`: Find a specific color gradient
+- `twc {query-color}`: Find a specific color gradient
 - `Enter`: Copy to clipboard the color you select
